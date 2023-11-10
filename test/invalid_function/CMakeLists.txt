@@ -1,0 +1,3 @@
+add_executable(empty_function empty_function.cpp)
+add_executable(inexistent_entry_block inexistent_entry_block.cpp)
+add_executable(unreacheable_block unreacheable_block.cpp)
